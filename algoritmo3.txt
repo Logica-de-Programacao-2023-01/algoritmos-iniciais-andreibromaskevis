@@ -1,0 +1,19 @@
+Média de números em uma lista.
+var 1,2 e 3
+Soma = 0
+Soma da lista = soma + lista (números)
+média: Soma + lista dividido pela quantidade de elementos
+faça: solicitar uma lista com X elementos (1,2 e 3) 
+se: {1,2 e 3} 
+leia: S= 0 
+leia: 1 
+leia 2 
+leia 3 
+faça: 1+2+3 
+escreva: 6 
+leia: 6 
+imprima: 6 
+faça: 6/3 
+leia 2
+imprima: 2
+Fim
