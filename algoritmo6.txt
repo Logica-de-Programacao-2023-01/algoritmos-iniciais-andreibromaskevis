@@ -1,0 +1,10 @@
+-Calcular potência de números.
+Se X for elavado à um número maior que 1 é for positivo.
+Fazer cálculo da multiplicação com repetição do mesmo número, baseada no número que X está sendo elevado.
+Exemplo:
+escreva: 2^2
+escreva :2x2
+faça: 2x2
+escreva: 4
+imprima: 4
+Fim
