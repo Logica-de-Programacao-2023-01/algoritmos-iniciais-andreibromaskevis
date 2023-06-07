@@ -5,7 +5,7 @@ M=montante
 C=capital
 i=taxa
 t=tempo
-Fazer multiplicação a partir das variáveis e da fórmula.
+Fazer multiplicação a partir das variáveis e da fórmula
 Exemplo:
 leia: M=X
 leia: C=1000
