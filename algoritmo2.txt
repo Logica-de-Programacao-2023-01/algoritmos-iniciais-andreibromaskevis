@@ -1,5 +1,4 @@
 -Temperatura em Celsius para Fahrenheit ou vice-versa.
-
 Leia: número 
 Leia: unidade
 se: Celsius
