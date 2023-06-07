@@ -1,4 +1,6 @@
+-Dois números como entrada e retorna a soma desses dois números.
 Leia x
 Leia y
 z = x + y
 escreva z
+Fim
