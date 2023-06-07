@@ -1,0 +1,12 @@
+-Calcular o Fatorial de um determinado número.
+Escreva 5!
+Leia 5!
+Leia 5>4,3,2,1
+Leia 4
+Leia 3
+Leia 2
+Leia 1
+Faça 5x4x3x2x1
+Leia 120
+Imprima 120
+Fim 
