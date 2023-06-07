@@ -1,0 +1,11 @@
+-Temperatura em Celsius para Fahrenheit ou vice-versa.
+
+Leia: número 
+Leia: unidade
+se: Celsius
+faça: x = (C x 9/5)+32
+escreva: Celsius = x
+se: Fahrenheit
+faça: y = (32F - 32) x 5/9
+escreva: Fahrenheit = y
+Fim
